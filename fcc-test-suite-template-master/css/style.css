@@ -1,0 +1,12 @@
+@media screen {
+    body{
+        background-color: rgb(233, 216, 216);
+    }
+}
+#welcome-section {
+    height: 100vh;
+}
+#navbar {
+    position: fixed;
+    top: 0;
+}
